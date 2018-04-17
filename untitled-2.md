@@ -1,10 +1,4 @@
----
-description: >-
-  A guide on machine learning that provides an overview about machine learning
-  and resources that can help users gain a deeper understanding
----
-
-# Machine Learning Resources
+# Mathematics
 
 ## Getting Super Powers
 
@@ -24,6 +18,8 @@ Once you're strong enough, save the world:
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
+
+## Test
 
 
 
