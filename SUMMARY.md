@@ -1,11 +1,13 @@
 # Table of contents
 
-* [Machine Learning Resources](README.md)
+* Machine Learning Resources
 * Introduction
   * [Getting Started](untitled-3/getting-started.md)
+  * [High-Level Overview of Machine Learning](untitled-3/high-level-overview-of-machine-learning.md)
+  * [Solving Problems with Machine Learning](untitled-3/solving-problems-with-machine-learning.md)
+  * [Getting into the Weeds](untitled-3/getting-into-the-weeds.md)
   * [Azure Machine Learning](untitled-3/azure-machine-learning.md)
   * [R](untitled-3/untitled.md)
-  * [Python](untitled-3/python.md)
 * Further Understanding
   * Unsupervised
   * Supervised
@@ -16,6 +18,5 @@
   * Anomaly Detection
   * [Mathematics](further-understanding/untitled-2.md)
   * Statistics
-* [Useful Links](useful-links.md)
-* Untitled
+* [Resources](resources.md)
 
