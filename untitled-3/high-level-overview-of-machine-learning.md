@@ -2,7 +2,7 @@
 
 ## What is Machine Learning?
 
-Machine learning is part of the field of Artificial Intelligence that focus on defining a set of rules that a computer uses to solve problems without being programmed explicitly. Real world examples of this are  speech recognition, self-driving cars, cancer detection. A video that gives a brief overview of this is below:
+Machine learning is part of the field of Artificial Intelligence that focus on defining a set of rules that a computer uses to solve problems without being programmed explicitly. Real world examples of this are  speech recognition, self-driving cars, and cancer detection. A video that gives a brief overview of this is below:
 
 
 

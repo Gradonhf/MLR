@@ -2,7 +2,7 @@
 
 ## Approaching Problems
 
-When you have a problem that you want to use Machine Learning to solve, you will need a dataset and answer some questions about the problem. Some of these questions are like "How many features?" or "Are you trying to predict something?". With the answers, you can choose the correct type of algorithm to use on the dataset in order to try to get a meaningful result. 
+When you have a problem that you want to use Machine Learning to solve, you will need a dataset and break down what the problem is. Breaking down the problem can be down by asking some questions  like "How many features?" or "Are you trying to predict something?". After answering these questions, you can choose the correct type of algorithm to use on the dataset in order to try to get a meaningful result. 
 
 In this section, we will look at resources that will help you decide what algorithm to use and tools that can help you implement a solution.
 
@@ -10,21 +10,21 @@ In this section, we will look at resources that will help you decide what algori
 
 ### Microsoft Azure ML
 
-The first thing is choosing an algorithm. Below is a cheat sheet that contains all algorithms that are currently supported by Microsoft Azure ML and that can be used to help decide on an algorithm. Depending on what kind of problem you are solving, it will lead you to a type of Machine Learning algorithm and what algorithm in that type would be a best fit. 
+The first thing is choosing an algorithm. Below is a cheat sheet that contains all algorithms that are currently supported by Microsoft Azure ML and this can be used to help decide on an algorithm. Depending on what kind of problem you are solving, the cheat sheet will lead you to a type of Machine Learning algorithm and what specific algorithm that would be the best fit. 
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-A breakdown of this cheat sheet can be found [here](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet). If you want a more advanced breakdown that goes in details a lot more about the algorithms on the cheat sheet, go [here](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice).
+A breakdown of this cheat sheet can be found [here](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet). If you want a more advanced breakdown that goes into detail about the algorithms on the cheat sheet, go [here](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice).
 
 Another resource is the infographic that is found [here](https://docs.microsoft.com/en-us/azure/machine-learning/studio/basics-infographic-with-algorithm-examples). This has a different layout and flow than the one above.
 
 ### Scikit-learn
 
-Scikit-learn is another resource for choosing algorithms and has the following cheat sheet
+Scikit-learn is another resource for choosing algorithms and has the following cheat sheet.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-An interactive version of this can be found [here](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) and goes into each one in depth.
+An interactive version of this can be found [here](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) and goes into each one in more depth.
 
 ## List of Tools and Frameworks
 
