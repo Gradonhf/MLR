@@ -12,5 +12,15 @@ Below is a more in depth overview of Machine Learning video:
 
 {% embed data="{\"url\":\"https://www.youtube.com/watch?v=IpGxLWOIZy4\",\"type\":\"video\",\"title\":\"A Friendly Introduction to Machine Learning\",\"description\":\"A friendly introduction to the main algorithms of Machine Learning with examples.\nNo previous knowledge required.\n\nIf you like this, there\'s an extended version in this playlist:\nhttps://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/IpGxLWOIZy4/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/IpGxLWOIZy4?rel=0&showinfo=0\",\"html\":\"<div style=\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\"><iframe src=\\"https://www.youtube.com/embed/IpGxLWOIZy4?rel=0&amp;showinfo=0\\" style=\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\" allowfullscreen scrolling=\\"no\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
+## Infographics
+
+The following are infographics that give an overview of what machine learning is and applications of it.
+
+{% embed data="{\"url\":\"https://inapp.com/brief-introduction-machine-learning-infographics/\",\"type\":\"link\",\"title\":\"A Brief Introduction to Machine Learning \(Infographics\)\",\"description\":\"Machine Learning is a field of study under AI that gives computers the ability to learn without being explicitly programmed.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://i1.wp.com/inapp.com/wp-content/uploads/2017/04/InApp-FAvicon.png?fit=96%2C96&ssl=1\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i2.wp.com/inapp.com/wp-content/uploads/2017/09/Introduction-to-Machine-Learning.jpg?fit=821%2C403&ssl=1\",\"width\":821,\"height\":403,\"aspectRatio\":0.49086479902557856}}" %}
+
+
+
+{% embed data="{\"url\":\"https://futurism.com/images/understanding-machine-learning-infographic/\",\"type\":\"link\",\"title\":\"Understanding Machine Learning \[INFOGRAPHIC\]\",\"description\":\"Machines are now able to learn and evolve without human intervention. Here\'s how it works, and what it means for the future of humanity.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://futurism.com/wp-content/themes/futurism/images/apple-touch-icon-144x144-precomposed.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://futurism.com/wp-content/uploads/2016/07/machinelearning.jpg\",\"width\":600,\"height\":315,\"aspectRatio\":0.525}}" %}
+
 
 
