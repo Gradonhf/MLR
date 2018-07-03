@@ -1,23 +1,23 @@
 # Table of contents
 
-* Machine Learning Resources
-* Introduction
+* [Machine Learning Resources](README.md)
+* [Introduction](untitled-3/README.md)
   * [Getting Started](untitled-3/getting-started.md)
   * [High-Level Overview of Machine Learning](untitled-3/high-level-overview-of-machine-learning.md)
   * [Solving Problems with Machine Learning](untitled-3/solving-problems-with-machine-learning.md)
   * [Getting into the Weeds](untitled-3/getting-into-the-weeds.md)
-* Further Understanding
-  * Unsupervised
-  * Supervised
-    * Classification
-    * Regression
-  * Future Prediction
-  * Grouping and Clustering
-  * Anomaly Detection
+* [Further Understanding](further-understanding/README.md)
+  * [Unsupervised](further-understanding/untitled/README.md)
+    * [Grouping and Clustering](further-understanding/untitled/untitled-1.md)
+    * [Anomaly Detection](further-understanding/untitled/anomaly-detection.md)
+  * [Supervised](further-understanding/supervised/README.md)
+    * [Classification](further-understanding/supervised/classification.md)
+    * [Regression](further-understanding/supervised/untitled.md)
+  * [Future Prediction](further-understanding/future-prediction.md)
   * [Mathematics](further-understanding/untitled-2.md)
-  * Statistics
+  * [Statistics](further-understanding/statistics.md)
 * [Resources](resources.md)
-* Archive
+* [Archive](archive/README.md)
   * [Azure Machine Learning](archive/azure-machine-learning.md)
   * [R](archive/untitled.md)
 

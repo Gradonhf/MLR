@@ -1,25 +1,22 @@
 # Mathematics
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-## Test
 
 
+
+
+{% embed data="{\"url\":\"https://machinelearningmastery.com/linear-algebra-machine-learning/\",\"type\":\"link\",\"title\":\"Linear Algebra for Machine Learning\",\"description\":\"You do not need to learn linear algebra before you get started in machine learning, but at some time you may wish to dive deeper. In fact, if there was one area of mathematics I would suggest improving before the others, it would be linear algebra. It will give you the tools to help you …\",\"icon\":{\"type\":\"icon\",\"url\":\"https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/Linear-Algebra-For-Machine-Learning.jpg\",\"width\":480,\"height\":640,\"aspectRatio\":1.3333333333333333}}" %}
+
+
+
+{% embed data="{\"url\":\"https://www.coursera.org/specializations/mathematics-machine-learning\",\"type\":\"link\",\"title\":\"Mathematics for Machine Learning \| Coursera\",\"description\":\"Mathematics for Machine Learning from Imperial College London. For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in maths - stuff you may have studied before in school or ...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/icon-194x194.png\",\"width\":194,\"height\":194,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://d15cw65ipctsrr.cloudfront.net/2d/4fc6700aa311e89d7a9366f7f7fdc2/Overall\_picture.jpg\",\"width\":1500,\"height\":430,\"aspectRatio\":0.2866666666666667}}" %}
+
+{% embed data="{\"url\":\"https://www.edx.org/course/essential-math-machine-learning-python\",\"type\":\"link\",\"title\":\"Essential Math for Machine Learning: Python Edition\",\"description\":\"Learn the essential mathematical foundations for machine learning and artificial intelligence.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.edx.org/sites/default/files/theme/favicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://prod-discovery.edx-cdn.org/media/course/image/fcaea676-0280-4af8-a913-7192af58c643-d8ee1d25b810.small.png\",\"width\":378,\"height\":212,\"aspectRatio\":0.5608465608465608}}" %}
+
+{% embed data="{\"url\":\"https://www.coursera.org/learn/linear-algebra-machine-learning\",\"type\":\"link\",\"title\":\"Mathematics for Machine Learning: Linear Algebra \| Coursera\",\"description\":\"Mathematics for Machine Learning: Linear Algebra from Imperial College London. In this course on Linear Algebra we look at what linear algebra is and how it relates to vectors and matrices. Then we look through what vectors and matrices are and ...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/icon-194x194.png\",\"width\":194,\"height\":194,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/41/c09e70f1fa11e7998daf3442598f30/BLUE\_1200x132.jpg.jpg\",\"width\":1200,\"height\":132,\"aspectRatio\":0.11}}" %}
+
+{% embed data="{\"url\":\"https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568\",\"type\":\"link\",\"title\":\"The Mathematics of Machine Learning\",\"description\":\"In the last few months, I have had several people contact me about their enthusiasm for venturing into the world of data science and using…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*F0LADxTtsKOgmPa-\_7iUEQ.jpeg\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1600/0\*xxYrThCJXugbESV3.png\",\"width\":800,\"height\":611,\"aspectRatio\":0.76375}}" %}
+
+{% embed data="{\"url\":\"https://courses.washington.edu/css490/2012.Winter/lecture\_slides/02\_math\_essentials.pdf\",\"type\":\"rich\",\"embed\":{\"type\":\"file\",\"url\":\"https://courses.washington.edu/css490/2012.Winter/lecture\_slides/02\_math\_essentials.pdf\",\"aspectRatio\":0}}" %}
+
+{% embed data="{\"url\":\"https://cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf\",\"type\":\"rich\",\"embed\":{\"type\":\"reader\",\"url\":\"https://docs.google.com/viewer?embedded=true&url=https%3A%2F%2Fcedar.buffalo.edu%2F~srihari%2FCSE574%2FChap1%2FLinearAlgebra.pdf\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\\"><iframe src=\\\"https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fcedar.buffalo.edu%2F~srihari%2FCSE574%2FChap1%2FLinearAlgebra.pdf\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
 
